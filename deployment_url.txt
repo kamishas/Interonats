@@ -1,1 +1,0 @@
-http://interon-email-agent-frontend-prod.s3-website.us-east-2.amazonaws.com

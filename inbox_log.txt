@@ -1,3 +1,0 @@
-Request: https://mail.zoho.com/api/accounts/566692000000008002/messages?folderId=566692000000008014&limit=20
-Status: 404
-Error: {"data":{"errorCode":"INVALID_METHOD"},"status":{"code":404,"description":"Invalid Input"}}

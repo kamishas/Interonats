@@ -1,1 +1,0 @@
-https://7a8in913p9.execute-api.us-east-1.amazonaws.com/
