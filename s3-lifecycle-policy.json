@@ -1,0 +1,14 @@
+{
+    "Rules": [
+        {
+            "Id": "DeleteTempFiles",
+            "Status": "Enabled",
+            "Filter": {
+                "Prefix": "temp/"
+            },
+            "Expiration": {
+                "Days": 1
+            }
+        }
+    ]
+}

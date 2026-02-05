@@ -1,0 +1,8 @@
+{
+    "rawPath": "/campaigns",
+    "requestContext": {
+        "http": {
+            "method": "GET"
+        }
+    }
+}

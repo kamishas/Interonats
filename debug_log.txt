@@ -1,0 +1,122 @@
+
+=== 1. FETCHING ACCOUNT METADATA ===
+Status: 200
+Raw JSON: {
+  "status": {
+    "code": 200,
+    "description": "success"
+  },
+  "data": [
+    {
+      "country": "us",
+      "lastLogin": 1767633378280,
+      "mxStatus": true,
+      "activeSyncEnabled": false,
+      "isDefaultAccount": true,
+      "mobileNumber": "",
+      "incomingBlocked": false,
+      "language": "en",
+      "type": "ZOHO_ACCOUNT",
+      "extraStorage": {},
+      "incomingUserName": "shasank.k@interonit.com",
+      "emailAddress": [
+        {
+          "isAlias": false,
+          "isPrimary": true,
+          "mailId": "shasank.k@interonit.com",
+          "isConfirmed": true
+        }
+      ],
+      "mailboxStatus": "enabled",
+      "popBlocked": false,
+      "usedStorage": 17654,
+      "spamcheckEnabled": true,
+      "imapAccessEnabled": true,
+      "timeZone": "America/New_York",
+      "accountCreationTime": 1762267517808,
+      "zuid": 904979138,
+      "webBlocked": false,
+      "planStorage": 10,
+      "firstName": "Shasank",
+      "accountId": "566692000000008002",
+      "sequence": 1,
+      "phoneNumber": "",
+      "mailboxAddress": "shasank.k@interonit.com",
+      "lastPasswordReset": 1762270520936,
+      "tfaEnabled": true,
+      "iamStatus": 1,
+      "phoneNumer": "",
+      "status": true,
+      "lastName": "Kamineni",
+      "accountDisplayName": "shasank.k",
+      "role": "member",
+      "gender": "NOT_SPECIFIED",
+      "accountName": "interonit",
+      "displayName": "Shasank Kamineni",
+      "isLogoExist": true,
+      "URI": "https://mail.zoho.com/api/accounts/566692000000008002",
+      "primaryEmailAddress": "shasank.k@interonit.com",
+      "enabled": true,
+      "mailboxCreationTime": 1762267519689,
+      "basicStorage": "newMail10gb",
+      "lastClient": "WEB_ZM",
+      "allowedStorage": 10485760,
+      "sendMailDetails": [
+        {
+          "sendMailId": "566692000000008004",
+          "displayName": "Shasank Kamineni",
+          "serverName": "smtpout.mail.zoho.com",
+          "signatureId": "null",
+          "serverPort": 25,
+          "userName": "shasank.k@interonit.com",
+          "connectionType": "plain",
+          "mode": "mailbox",
+          "validated": false,
+          "fromAddress": "shasank.k@interonit.com",
+          "smtpConnection": 0,
+          "validationRequired": true,
+          "validationState": 0,
+          "status": true
+        }
+      ],
+      "popFetchTime": -1,
+      "address": {
+        "country": "",
+        "streetAddr": "",
+        "city": "",
+        "postalCode": "",
+        "state": ""
+      },
+      "planType": 93,
+      "userExpiry": -1,
+      "popAccessEnabled": true,
+      "deliveryType": "LOCAL",
+      "imapBlocked": false,
+      "iamUserRole": "member",
+      "outgoingBlocked": false,
+      "policyId": {
+        "1082700000224620522": "Business Policy",
+        "zoid": 772346942
+      },
+      "isDesignatedMailbox": false,
+      "smtpStatus": true,
+      "extraEDiscoveryStorage": {}
+    }
+  ]
+}
+
+=== 2. SCANNING SENT FOLDER ===
+Found Folder: Inbox (566692000000008014)
+Found Folder: Drafts (566692000000008016)
+Found Folder: Templates (566692000000008018)
+Found Folder: Snoozed (566692000000008020)
+Found Folder: Sent (566692000000008022)
+Found Folder: Spam (566692000000008024)
+Found Folder: Trash (566692000000008026)
+Found Folder: Outbox (566692000000008028)
+Found Folder: Notification (566692000000009001)
+Found Folder: Newsletter (566692000000009011)
+Found Folder: Archive (566692000000009021)
+
+Scanning Sent (566692000000008022)...
+Error listing sent: {"data":{"errorCode":"INVALID_METHOD"},"status":{"code":404,"description":"Invalid Input"}}

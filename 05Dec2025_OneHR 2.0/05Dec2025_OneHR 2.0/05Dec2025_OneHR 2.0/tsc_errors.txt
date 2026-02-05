@@ -1,0 +1,288 @@
+﻿src/components/admin-role-management.tsx(593,41): error TS2551: Property 'organizationName' does not exist on type 'User'. Did you mean 'organizationId'?
+src/components/admin-role-management.tsx(890,48): error TS2551: Property 'role_permissions' does not exist on type 'CustomRole'. Did you mean 'permissions'?
+src/components/admin-role-management.tsx(1016,45): error TS2551: Property 'role_permissions' does not exist on type 'CustomRole'. Did you mean 'permissions'?
+src/components/admin-role-management.tsx(1122,116): error TS2339: Property 'role_name' does not exist on type 'User'.
+src/components/admin-role-management.tsx(1127,66): error TS2339: Property 'first_name' does not exist on type 'User'.
+src/components/admin-role-management.tsx(1127,84): error TS2339: Property 'last_name' does not exist on type 'User'.
+src/components/admin-role-management.tsx(1136,68): error TS2339: Property 'role_display_name' does not exist on type 'CustomRole'.
+src/components/admin-role-management.tsx(1137,86): error TS2551: Property 'role_name' does not exist on type 'CustomRole'. Did you mean 'roleName'?
+src/components/admin-role-management.tsx(1143,68): error TS2339: Property 'role_display_name' does not exist on type 'User'.
+src/components/admin-role-management.tsx(1144,86): error TS2339: Property 'role_name' does not exist on type 'User'.
+src/components/admin-role-management.tsx(1202,43): error TS2551: Property 'role_permissions' does not exist on type 'CustomRole'. Did you mean 'permissions'?
+src/components/business-licensing-enhanced.tsx(1952,35): error TS2322: Type 'unknown' is not assignable to type 'ReactNode'.
+src/components/client-detail-dashboard.tsx(20,15): error TS2305: Module '"../types"' has no exported member 'Client'.
+src/components/client-detail-dashboard.tsx(20,33): error TS2305: Module '"../types"' has no exported member 'ClientDocument'.
+src/components/client-detail-dashboard.tsx(78,9): error TS2322: Type 'unknown[]' is not assignable to type 'string[]'.
+  Type 'unknown' is not assignable to type 'string'.
+src/components/client-detail-dashboard.tsx(230,94): error TS2339: Property 'status' does not exist on type 'string | boolean | WorkflowTask[] | DepartmentApproval[]'.
+  Property 'status' does not exist on type 'string'.
+src/components/client-management-advanced.tsx(25,3): error TS2305: Module '"../types"' has no exported member 'Client'.
+src/components/client-management-advanced.tsx(25,11): error TS2305: Module '"../types"' has no exported member 'ClientContact'.
+src/components/client-management-advanced.tsx(25,26): error TS2305: Module '"../types"' has no exported member 'ClientEngagement'.
+src/components/client-management-advanced.tsx(25,44): error TS2305: Module '"../types"' has no exported member 'PurchaseOrder'.
+src/components/client-management-advanced.tsx(25,59): error TS2305: Module '"../types"' has no exported member 'ClientDocument'.
+src/components/client-management-advanced.tsx(26,3): error TS2305: Module '"../types"' has no exported member 'ClientContactType'.
+src/components/client-management-advanced.tsx(26,22): error TS2305: Module '"../types"' has no exported member 'TimesheetCadence'.
+src/components/client-management-advanced.tsx(26,40): error TS2305: Module '"../types"' has no exported member 'InvoiceMethod'.
+src/components/client-management-advanced.tsx(26,55): error TS2305: Module '"../types"' has no exported member 'VMSPortalType'.
+src/components/client-onboarding-enhanced.tsx(23,3): error TS2305: Module '"../types"' has no exported member 'Client'.
+src/components/client-onboarding-enhanced.tsx(23,11): error TS2305: Module '"../types"' has no exported member 'ClientContact'.
+src/components/client-onboarding-enhanced.tsx(23,26): error TS2305: Module '"../types"' has no exported member 'ClientEngagement'.
+src/components/client-onboarding-enhanced.tsx(23,44): error TS2305: Module '"../types"' has no exported member 'PurchaseOrder'.
+src/components/client-onboarding-enhanced.tsx(23,59): error TS2305: Module '"../types"' has no exported member 'ClientDocument'.
+src/components/client-onboarding-enhanced.tsx(24,3): error TS2305: Module '"../types"' has no exported member 'ClientContactType'.
+src/components/client-onboarding-enhanced.tsx(24,22): error TS2305: Module '"../types"' has no exported member 'ClientDocumentType'.
+src/components/client-onboarding-enhanced.tsx(24,42): error TS2305: Module '"../types"' has no exported member 'ClientDocumentStatus'.
+src/components/client-onboarding-enhanced.tsx(24,64): error TS2305: Module '"../types"' has no exported member 'VMSPortalType'.
+src/components/client-onboarding-enhanced.tsx(25,3): error TS2305: Module '"../types"' has no exported member 'TimesheetCadence'.
+src/components/client-onboarding-enhanced.tsx(25,21): error TS2305: Module '"../types"' has no exported member 'InvoiceMethod'.
+src/components/client-onboarding-enhanced.tsx(25,36): error TS2305: Module '"../types"' has no exported member 'DocumentExtraction'.
+src/components/client-onboarding.tsx(17,15): error TS2305: Module '"../types"' has no exported member 'Client'.
+src/components/client-onboarding.tsx(17,23): error TS2305: Module '"../types"' has no exported member 'OnboardingStatus'.
+src/components/client-portal.tsx(71,38): error TS2304: Cannot find name 'publicAnonKey'.
+src/components/contractor-management.tsx(23,3): error TS2305: Module '"../types"' has no exported member 'Contractor'.
+src/components/contractor-management.tsx(23,15): error TS2305: Module '"../types"' has no exported member 'Vendor'.
+src/components/contractor-management.tsx(23,23): error TS2305: Module '"../types"' has no exported member 'Client'.
+src/components/contractor-management.tsx(23,31): error TS2305: Module '"../types"' has no exported member 'ProjectAssignment'.
+src/components/contractor-management.tsx(24,3): error TS2305: Module '"../types"' has no exported member 'ContractorType'.
+src/components/contractor-management.tsx(24,19): error TS2305: Module '"../types"' has no exported member 'ContractorStatus'.
+src/components/contractor-management.tsx(24,37): error TS2305: Module '"../types"' has no exported member 'ImmigrationStatus'.
+src/components/contractor-management.tsx(209,38): error TS2304: Cannot find name 'publicAnonKey'.
+src/components/dashboard-minimal.tsx(19,25): error TS2305: Module '"../types"' has no exported member 'DashboardPreferences'.
+src/components/dashboard-minimal.tsx(48,10): error TS2304: Cannot find name 'Dashboard'.
+src/components/dashboard-modern.tsx(19,25): error TS2305: Module '"../types"' has no exported member 'DashboardPreferences'.
+src/components/dashboard-settings.tsx(9,15): error TS2305: Module '"../types"' has no exported member 'DashboardPreferences'.
+src/components/dashboard.tsx(19,25): error TS2305: Module '"../types"' has no exported member 'DashboardPreferences'.
+src/components/dashboard.tsx(26,29): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/components/dashboard.tsx(448,17): error TS2339: Property 'requiresNewStateLicensing' does not exist on type 'OnboardingWorkflow'.
+src/components/dashboard.tsx(449,18): error TS2339: Property 'stateWithholdingAccountCreated' does not exist on type 'OnboardingWorkflow'.
+src/components/document-management.tsx(22,29): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/components/document-management.tsx(332,9): error TS2367: This comparison appears to be unintentional because the types '"pending" | "pending_review" | "pending-review" | "active" | "deleted"' and '"expired"' have no overlap.
+src/components/document-management.tsx(338,13): error TS2339: Property 'requiresSignature' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(338,38): error TS2339: Property 'signatureStatus' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(341,13): error TS2339: Property 'requiresSignature' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(341,38): error TS2339: Property 'signatureStatus' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(348,55): error TS2339: Property 'employeeId' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(356,61): error TS2339: Property 'employeeId' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(376,9): error TS2339: Property 'requiresSignature' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(376,32): error TS2339: Property 'signatureStatus' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(550,69): error TS2339: Property 'employeeId' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(780,76): error TS2339: Property 'employeeId' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(884,62): error TS2304: Cannot find name 'publicAnonKey'.
+src/components/document-management.tsx(1097,37): error TS2339: Property 'requiresSignature' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(1101,58): error TS2339: Property 'signatureStatus' does not exist on type 'EmployeeDocument'.
+src/components/document-management.tsx(1102,45): error TS2339: Property 'signatureStatus' does not exist on type 'EmployeeDocument'.
+src/components/employee-clients-badge.tsx(6,15): error TS2305: Module '"../types"' has no exported member 'ProjectAssignment'.
+src/components/employee-document-upload.tsx(318,7): error TS2322: Type 'string' is not assignable to type 'EmployeeDocumentType'.
+src/components/employee-immigration-portal.tsx(25,15): error TS2305: Module '"../types"' has no exported member 'ImmigrationRecord'.
+src/components/employee-immigration-portal.tsx(25,34): error TS2305: Module '"../types"' has no exported member 'DocumentType'.
+src/components/employee-immigration-portal.tsx(49,33): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/components/employee-immigration-portal.tsx(80,33): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/components/employee-onboarding.tsx(31,29): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/components/employee-onboarding.tsx(327,36): error TS2339: Property 'org_name' does not exist on type 'User'.
+src/components/employee-onboarding.tsx(375,24): error TS2345: Argument of type '{ firstName: string; lastName: string; email: string; phone: string; position: string; department: string; startDate: string; dateOfBirth: string; homeState: string; homeCounty: string; homeCity: string; ... 11 more ...; temporaryPassword: string; }' is not assignable to parameter of type 'SetStateAction<{ firstName: string; lastName: string; email: string; phone: string; position: string; department: string; startDate: string; dateOfBirth: string; homeState: string; homeCounty: string; homeCity: string; ... 13 more ...; temporaryPassword: string; }>'.
+  Type '{ firstName: string; lastName: string; email: string; phone: string; position: string; department: string; startDate: string; dateOfBirth: string; homeState: string; homeCounty: string; homeCity: string; ... 11 more ...; temporaryPassword: string; }' is missing the following properties from type '{ firstName: string; lastName: string; email: string; phone: string; position: string; department: string; startDate: string; dateOfBirth: string; homeState: string; homeCounty: string; homeCity: string; ... 13 more ...; temporaryPassword: string; }': salary, classification
+src/components/employee-onboarding.tsx(425,28): error TS2551: Property 'clientName' does not exist on type 'Employee'. Did you mean 'clientNames'?
+src/components/employee-onboarding.tsx(427,26): error TS2339: Property 'vendorId' does not exist on type 'Employee'.
+src/components/employee-onboarding.tsx(428,28): error TS2339: Property 'vendorName' does not exist on type 'Employee'.
+src/components/employee-onboarding.tsx(429,37): error TS2339: Property 'purchaseOrderNumber' does not exist on type 'Employee'.
+src/components/employee-onboarding.tsx(431,29): error TS2339: Property 'managerName' does not exist on type 'Employee'.
+src/components/employee-onboarding.tsx(2497,40): error TS2339: Property 'linkedClientId' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-onboarding.tsx(2498,42): error TS2339: Property 'linkedClientName' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-onboarding.tsx(2499,40): error TS2339: Property 'linkedPONumber' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-onboarding.tsx(2500,43): error TS2339: Property 'internalProjectId' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-onboarding.tsx(2501,46): error TS2339: Property 'departmentAssignment' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-onboarding.tsx(2729,68): error TS2345: Argument of type 'string' is not assignable to parameter of type 'EmployeeClassification'.
+src/components/employee-onboarding.tsx(2769,35): error TS2551: Property 'approvedDate' does not exist on type 'DepartmentApproval'. Did you mean 'approvalDate'?
+src/components/employee-onboarding.tsx(2771,58): error TS2551: Property 'approvedDate' does not exist on type 'DepartmentApproval'. Did you mean 'approvalDate'?
+src/components/employee-onboarding.tsx(2834,23): error TS2304: Cannot find name 'handleToggleTimesheetAccess'.
+src/components/employee-portal.tsx(37,29): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/components/employee-portal.tsx(261,76): error TS2339: Property 'stage' does not exist on type 'WorkflowTask'.
+src/components/employee-portal.tsx(265,93): error TS2339: Property 'stage' does not exist on type 'WorkflowTask'.
+src/components/employee-portal.tsx(421,38): error TS2339: Property 'allMandatoryDocumentsCollected' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-portal.tsx(423,29): error TS2339: Property 'pendingDocumentRequests' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-portal.tsx(531,44): error TS2551: Property 'clientName' does not exist on type 'Employee'. Did you mean 'clientNames'?
+src/components/employee-portal.tsx(535,44): error TS2339: Property 'purchaseOrder' does not exist on type 'Employee'.
+src/components/employee-portal.tsx(572,36): error TS2339: Property 'allMandatoryDocumentsCollected' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-portal.tsx(572,79): error TS2339: Property 'pendingDocumentRequests' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-portal.tsx(577,38): error TS2339: Property 'pendingDocumentRequests' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-portal.tsx(577,89): error TS2339: Property 'pendingDocumentRequests' does not exist on type 'OnboardingWorkflow'.
+src/components/employee-profile-completion.tsx(19,29): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/components/employee-profile-completion.tsx(767,62): error TS2322: Type '{ className: string; title: string; }' is not assignable to type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+  Property 'title' does not exist on type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+src/components/employee-project-view.tsx(30,15): error TS2305: Module '"../types"' has no exported member 'ProjectAssignment'.
+src/components/employee-project-view.tsx(30,34): error TS2305: Module '"../types"' has no exported member 'ProjectStatus'.
+src/components/employee-project-view.tsx(30,49): error TS2305: Module '"../types"' has no exported member 'Client'.
+src/components/hr-approval-workflow.tsx(223,33): error TS2339: Property 'createdBy' does not exist on type 'Employee'.
+src/components/hr-approval-workflow.tsx(226,53): error TS2339: Property 'createdByRole' does not exist on type 'Employee'.
+src/components/immigration-attorney-integration.tsx(26,15): error TS2305: Module '"../types"' has no exported member 'Attorney'.
+src/components/immigration-case-form-enhanced.tsx(15,15): error TS2305: Module '"../types"' has no exported member 'CaseType'.
+src/components/immigration-case-form-enhanced.tsx(15,25): error TS2305: Module '"../types"' has no exported member 'FilingStatus'.
+src/components/immigration-case-form-enhanced.tsx(15,39): error TS2305: Module '"../types"' has no exported member 'ImmigrationRecord'.
+src/components/immigration-case-form-enhanced.tsx(351,69): error TS2552: Cannot find name 'formflowTemplate'. Did you mean 'workflowTemplate'?
+src/components/immigration-case-form.tsx(15,15): error TS2305: Module '"../types"' has no exported member 'CaseType'.
+src/components/immigration-case-form.tsx(15,25): error TS2305: Module '"../types"' has no exported member 'FilingStatus'.
+src/components/immigration-case-form.tsx(15,39): error TS2305: Module '"../types"' has no exported member 'ImmigrationRecord'.
+src/components/immigration-case-form.tsx(59,17): error TS2345: Argument of type '{ employeeId: string; caseNumber: string; caseType: string; petitionNumber: string; uscisCenter: string; receiptNumber: string; filedDate: string; approvalDate: string; validFrom: string; validTo: string; ... 6 more ...; notes: string; }' is not assignable to parameter of type 'SetStateAction<{ employeeId: string; caseNumber: string; caseType: CaseType; petitionNumber: string; uscisCenter: string; receiptNumber: string; filedDate: string; approvalDate: string; validFrom: string; validTo: string; ... 7 more ...; useWorkflowTemplate: boolean; }>'.
+  Property 'useWorkflowTemplate' is missing in type '{ employeeId: string; caseNumber: string; caseType: string; petitionNumber: string; uscisCenter: string; receiptNumber: string; filedDate: string; approvalDate: string; validFrom: string; validTo: string; ... 6 more ...; notes: string; }' but required in type '{ employeeId: string; caseNumber: string; caseType: CaseType; petitionNumber: string; uscisCenter: string; receiptNumber: string; filedDate: string; approvalDate: string; validFrom: string; ... 8 more ...; useWorkflowTemplate: boolean; }'.
+src/components/immigration-cost-form.tsx(9,15): error TS2305: Module '"../types"' has no exported member 'CostType'.
+src/components/immigration-cost-form.tsx(9,25): error TS2305: Module '"../types"' has no exported member 'PaymentStatus'.
+src/components/immigration-cost-form.tsx(9,40): error TS2305: Module '"../types"' has no exported member 'ImmigrationRecord'.
+src/components/immigration-dependent-form.tsx(8,15): error TS2305: Module '"../types"' has no exported member 'DependentRelationship'.
+src/components/immigration-dependent-form.tsx(8,38): error TS2305: Module '"../types"' has no exported member 'ImmigrationRecord'.
+src/components/immigration-edit-wrapper.tsx(5,15): error TS2305: Module '"../types"' has no exported member 'ImmigrationRecord'.
+src/components/immigration-employee-form.tsx(14,15): error TS2305: Module '"../types"' has no exported member 'ImmigrationStatus'.
+src/components/immigration-employee-form.tsx(100,9): error TS2353: Object literal may only specify known properties, and 'hasActiveGCProcess' does not exist in type 'SetStateAction<{ employeeName: string; email: string; currentStatus: ImmigrationStatus; petitionNumber: string; workAuthorizationExpiry: string; i94Number: string; i94Expiry: string; i94AdmissionDate: string; passportNumber: string; ... 16 more ...; notes: string; }>'.
+src/components/immigration-management.tsx(43,3): error TS2305: Module '"../types"' has no exported member 'ImmigrationRecord'.
+src/components/immigration-management.tsx(44,3): error TS2305: Module '"../types"' has no exported member 'ImmigrationFiling'.
+src/components/immigration-management.tsx(45,3): error TS2305: Module '"../types"' has no exported member 'GreenCardProcess'.
+src/components/immigration-management.tsx(46,3): error TS2305: Module '"../types"' has no exported member 'ImmigrationDocument'.
+src/components/immigration-management.tsx(47,3): error TS2305: Module '"../types"' has no exported member 'ImmigrationStatus'.
+src/components/immigration-management.tsx(48,3): error TS2305: Module '"../types"' has no exported member 'FilingType'.
+src/components/immigration-management.tsx(49,3): error TS2305: Module '"../types"' has no exported member 'FilingStatus'.
+src/components/immigration-management.tsx(50,3): error TS2305: Module '"../types"' has no exported member 'GreenCardStage'.
+src/components/immigration-management.tsx(511,39): error TS2503: Cannot find namespace 'JSX'.
+src/components/immigration-timeline.tsx(5,15): error TS2305: Module '"../types"' has no exported member 'TimelineEvent'.
+src/components/leave-management.tsx(18,15): error TS2305: Module '"../types"' has no exported member 'LeaveRequest'.
+src/components/leave-management.tsx(18,29): error TS2305: Module '"../types"' has no exported member 'LeaveType'.
+src/components/leave-management.tsx(18,40): error TS2305: Module '"../types"' has no exported member 'LeaveStatus'.
+src/components/leave-management.tsx(18,53): error TS2305: Module '"../types"' has no exported member 'PTOBalance'.
+src/components/offboarding.tsx(20,15): error TS2305: Module '"../types"' has no exported member 'OffboardingRecord'.
+src/components/offboarding.tsx(20,34): error TS2305: Module '"../types"' has no exported member 'OffboardingReason'.
+src/components/offboarding.tsx(20,53): error TS2305: Module '"../types"' has no exported member 'OffboardingStatus'.
+src/components/offboarding.tsx(20,72): error TS2305: Module '"../types"' has no exported member 'OffboardingTask'.
+src/components/offboarding.tsx(20,89): error TS2305: Module '"../types"' has no exported member 'AssetReturnItem'.
+src/components/performance-management.tsx(18,15): error TS2305: Module '"../types"' has no exported member 'PerformanceReview'.
+src/components/performance-management.tsx(18,34): error TS2305: Module '"../types"' has no exported member 'ReviewCycle'.
+src/components/performance-management.tsx(18,47): error TS2305: Module '"../types"' has no exported member 'RatingScale'.
+src/components/project-assignments.tsx(33,15): error TS2305: Module '"../types"' has no exported member 'ProjectAssignment'.
+src/components/project-assignments.tsx(33,34): error TS2305: Module '"../types"' has no exported member 'ProjectStatus'.
+src/components/project-assignments.tsx(33,59): error TS2305: Module '"../types"' has no exported member 'Client'.
+src/components/state-licensing.tsx(934,62): error TS2322: Type '{ className: string; title: string; }' is not assignable to type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+  Property 'title' does not exist on type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+src/components/state-licensing.tsx(957,62): error TS2322: Type '{ className: string; title: string; }' is not assignable to type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+  Property 'title' does not exist on type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+src/components/state-licensing.tsx(1267,62): error TS2322: Type '{ className: string; title: string; }' is not assignable to type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+  Property 'title' does not exist on type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+src/components/state-licensing.tsx(1290,62): error TS2322: Type '{ className: string; title: string; }' is not assignable to type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+  Property 'title' does not exist on type 'IntrinsicAttributes & Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>'.
+src/components/subvendor-management.tsx(17,15): error TS2305: Module '"../types"' has no exported member 'Subvendor'.
+src/components/subvendor-management.tsx(17,26): error TS2305: Module '"../types"' has no exported member 'Vendor'.
+src/components/subvendor-management.tsx(425,68): error TS2339: Property 'parentName' does not exist on type '{}'.
+src/components/subvendor-management.tsx(425,80): error TS2339: Property 'subvendors' does not exist on type '{}'.
+src/components/timesheet-unified.tsx(531,28): error TS2339: Property 'holidayHours' does not exist on type 'TimesheetEntry'.
+src/components/timesheet-unified.tsx(746,17): error TS2345: Argument of type '{ project: string; client: string; regularHours: string; overtimeHours: string; overtimeApprovalEmail: string; description: string; category: string; costCenter: string; }' is not assignable to parameter of type 'SetStateAction<{ project: string; client: string; regularHours: string; overtimeHours: string; holidayHours: string; overtimeApprovalEmail: string; description: string; category: string; costCenter: string; }>'.
+  Property 'holidayHours' is missing in type '{ project: string; client: string; regularHours: string; overtimeHours: string; overtimeApprovalEmail: string; description: string; category: string; costCenter: string; }' but required in type '{ project: string; client: string; regularHours: string; overtimeHours: string; holidayHours: string; overtimeApprovalEmail: string; description: string; category: string; costCenter: string; }'.
+src/components/timesheet-unified.tsx(959,40): error TS2339: Property 'holidayHours' does not exist on type 'TimesheetEntry'.
+src/components/timesheet-unified.tsx(1250,98): error TS2339: Property 'holidayHours' does not exist on type 'TimesheetEntry'.
+src/components/timesheet-unified.tsx(1274,38): error TS2339: Property 'holidayHours' does not exist on type 'TimesheetEntry'.
+src/components/timesheet-unified.tsx(1362,54): error TS2339: Property 'holidayHours' does not exist on type 'TimesheetEntry'.
+src/components/timesheets.tsx(309,11): error TS2353: Object literal may only specify known properties, and 'id' does not exist in type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(818,24): error TS2322: Type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; } | { ...; }' is not assignable to type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+  Type '{ id: string; clientId: any; clientName: any; projectName: any; poNumber: any; weeklyHours: string; }' is missing the following properties from type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }': projectId, mon, tue, wed, and 4 more.
+src/components/timesheets.tsx(818,43): error TS2740: Type '{ id: string; clientId: any; clientName: any; projectName: any; poNumber: any; weeklyHours: string; }' is missing the following properties from type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }': projectId, mon, tue, wed, and 4 more.
+src/components/timesheets.tsx(1009,23): error TS2552: Cannot find name 'employeeName'. Did you mean 'employee'?
+src/components/timesheets.tsx(1465,29): error TS2322: Type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; } | { ...; }' is not assignable to type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+  Object literal may only specify known properties, and 'id' does not exist in type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1465,29): error TS2353: Object literal may only specify known properties, and 'id' does not exist in type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1492,31): error TS2353: Object literal may only specify known properties, and 'id' does not exist in type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1507,42): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1515,82): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1515,94): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1524,62): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1526,45): error TS2339: Property 'clientId' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1530,39): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1530,51): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1536,67): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1550,63): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1552,53): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1558,39): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1558,51): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1567,61): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1570,53): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1576,47): error TS2339: Property 'weeklyHours' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1579,41): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1579,53): error TS2339: Property 'id' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1606,59): error TS2339: Property 'weeklyHours' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(1615,55): error TS2339: Property 'weeklyHours' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2463,42): error TS2339: Property 'monTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2463,65): error TS2339: Property 'tueTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2463,88): error TS2339: Property 'wedTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2464,42): error TS2339: Property 'thuTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2464,65): error TS2339: Property 'friTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2464,88): error TS2339: Property 'satTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2464,111): error TS2339: Property 'sunTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2465,42): error TS2339: Property 'monHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2465,65): error TS2339: Property 'tueHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2465,88): error TS2339: Property 'wedHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2466,42): error TS2339: Property 'thuHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2466,65): error TS2339: Property 'friHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2466,88): error TS2339: Property 'satHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2466,111): error TS2339: Property 'sunHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2547,32): error TS2339: Property 'monTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2547,53): error TS2339: Property 'monHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2549,35): error TS2339: Property 'monTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2552,39): error TS2339: Property 'monTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2555,35): error TS2339: Property 'monHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2558,39): error TS2339: Property 'monHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2587,32): error TS2339: Property 'tueTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2587,53): error TS2339: Property 'tueHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2589,35): error TS2339: Property 'tueTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2592,39): error TS2339: Property 'tueTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2595,35): error TS2339: Property 'tueHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2598,39): error TS2339: Property 'tueHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2627,32): error TS2339: Property 'wedTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2627,53): error TS2339: Property 'wedHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2629,35): error TS2339: Property 'wedTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2632,39): error TS2339: Property 'wedTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2635,35): error TS2339: Property 'wedHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2638,39): error TS2339: Property 'wedHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2667,32): error TS2339: Property 'thuTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2667,53): error TS2339: Property 'thuHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2669,35): error TS2339: Property 'thuTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2672,39): error TS2339: Property 'thuTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2675,35): error TS2339: Property 'thuHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2678,39): error TS2339: Property 'thuHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2707,32): error TS2339: Property 'friTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2707,53): error TS2339: Property 'friHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2709,35): error TS2339: Property 'friTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2712,39): error TS2339: Property 'friTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2715,35): error TS2339: Property 'friHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2718,39): error TS2339: Property 'friHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2747,32): error TS2339: Property 'satTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2747,53): error TS2339: Property 'satHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2749,35): error TS2339: Property 'satTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2752,39): error TS2339: Property 'satTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2755,35): error TS2339: Property 'satHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2758,39): error TS2339: Property 'satHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2787,32): error TS2339: Property 'sunTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2787,53): error TS2339: Property 'sunHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2789,35): error TS2339: Property 'sunTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2792,39): error TS2339: Property 'sunTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2795,35): error TS2339: Property 'sunHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2798,39): error TS2339: Property 'sunHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2818,30): error TS2339: Property 'monTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2818,52): error TS2339: Property 'tueTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2818,74): error TS2339: Property 'wedTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2819,24): error TS2339: Property 'thuTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2819,46): error TS2339: Property 'friTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2819,68): error TS2339: Property 'satTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2819,90): error TS2339: Property 'sunTimeOff' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2822,30): error TS2339: Property 'monHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2822,52): error TS2339: Property 'tueHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2822,74): error TS2339: Property 'wedHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2823,24): error TS2339: Property 'thuHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2823,46): error TS2339: Property 'friHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2823,68): error TS2339: Property 'satHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/timesheets.tsx(2823,90): error TS2339: Property 'sunHoliday' does not exist on type '{ projectId: string; clientName: string; projectName: string; mon: number; tue: number; wed: number; thu: number; fri: number; sat: number; sun: number; uploadedFile?: File; uploadedFileUrl?: string; }'.
+src/components/user-role-management.tsx(98,3): error TS2322: Type '"consultant"' is not assignable to type 'UserRole'.
+src/components/vendor-detail.tsx(15,15): error TS2305: Module '"../types"' has no exported member 'Vendor'.
+src/components/vendor-management.tsx(21,15): error TS2305: Module '"../types"' has no exported member 'Vendor'.
+src/components/vendor-management.tsx(21,23): error TS2305: Module '"../types"' has no exported member 'VendorContact'.
+src/components/vendor-management.tsx(21,38): error TS2305: Module '"../types"' has no exported member 'VendorType'.
+src/components/vendor-management.tsx(21,50): error TS2305: Module '"../types"' has no exported member 'VendorStatus'.
+src/lib/immigration-workflow-templates.ts(1,15): error TS2305: Module '"../types"' has no exported member 'CaseType'.
+src/lib/mock-data.ts(1,20): error TS2305: Module '"../types"' has no exported member 'Client'.
+src/lib/mock-data.ts(1,28): error TS2305: Module '"../types"' has no exported member 'ImmigrationRecord'.
+src/lib/mock-data.ts(1,47): error TS2305: Module '"../types"' has no exported member 'BusinessLicense'.
+src/lib/mock-data.ts(1,64): error TS2305: Module '"../types"' has no exported member 'TimesheetEntry'.

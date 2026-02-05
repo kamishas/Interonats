@@ -1,0 +1,5 @@
+{
+    "httpMethod": "POST",
+    "path": "/contacts/batch",
+    "body": "{\"contacts\":[{\"email\":\"test@test.com\",\"firstName\":\"Test\",\"lastName\":\"User\",\"company\":\"TestCo\",\"tags\":[\"TestTag\"]}]}"
+}
