@@ -1,8 +1,0 @@
-﻿src/components/employee-document-upload.tsx(294,11): error TS1005: ',' expected.
-src/components/employee-document-upload.tsx(295,16): error TS1005: ',' expected.
-src/components/employee-document-upload.tsx(295,24): error TS1005: ',' expected.
-src/components/employee-document-upload.tsx(297,7): error TS1128: Declaration or statement expected.
-src/components/employee-document-upload.tsx(312,5): error TS1128: Declaration or statement expected.
-src/components/employee-document-upload.tsx(312,7): error TS1005: 'try' expected.
-src/components/employee-document-upload.tsx(316,3): error TS1128: Declaration or statement expected.
-src/components/employee-document-upload.tsx(1608,1): error TS1128: Declaration or statement expected.
