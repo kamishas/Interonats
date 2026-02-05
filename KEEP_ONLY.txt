@@ -1,0 +1,6 @@
+# Keep ONLY these essential directories and files
+lambda-functions/EmailAgentUnified/
+OneHR 2.0 for Email/Interon Small Automations tool/
+deploy_unified.py
+README.md
+.gitignore
